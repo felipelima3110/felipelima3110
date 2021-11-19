@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning ... Pyhton, Java, SQL! 
+- 🌱 I’m currently learning ... Pyhton and Java! 
 Please leave a comment!
