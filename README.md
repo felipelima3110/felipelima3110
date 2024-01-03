@@ -1,1 +1,1 @@
-- 🌱 I’m currently learning Java and others things! 
+- 🌱 I’m currently learning Java and other things! 
