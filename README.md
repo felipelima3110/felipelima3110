@@ -1,1 +1,1 @@
-- 🌱 I’m currently learning ... Pyhton and Java! 
+- 🌱 I’m currently learning Java and others things! 
